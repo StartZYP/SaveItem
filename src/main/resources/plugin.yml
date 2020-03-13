@@ -1,0 +1,5 @@
+name: SaveItem
+version: 1.0
+main: com.ipedg.minecraft.SaveItem
+commands:
+  saveitem:
